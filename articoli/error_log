@@ -1,0 +1,5 @@
+[10-Feb-2015 09:55:26 UTC] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/sonynik9/public_html/messinagiovane.org/articoli/articolo.php:47) in /home/sonynik9/public_html/messinagiovane.org/articoli/articolo.php on line 49
+[10-Feb-2015 17:36:11 UTC] PHP Parse error:  syntax error, unexpected $end in /home/sonynik9/public_html/messinagiovane.org/articoli/articolo.php on line 169
+[10-Feb-2015 17:37:14 UTC] PHP Parse error:  syntax error, unexpected $end in /home/sonynik9/public_html/messinagiovane.org/articoli/articolo.php on line 169
+[10-Feb-2015 17:39:14 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sonynik9/public_html/messinagiovane.org/articoli/articolo.php on line 21
+[10-Feb-2015 17:42:21 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/sonynik9/public_html/messinagiovane.org/articoli/articolo.php on line 21
